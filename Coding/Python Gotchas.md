@@ -2,3 +2,5 @@
 * `graph[node1] = graph.get(node1).append(node2)`
 	* this sets the array to None
 	* instead do `graph.get(node1).append(node2)` 
+* "".isdigit or "".isnumeric will return false for negative numbers
+* `if not some_var` doesn't just check if not None. It will also return false if 0
