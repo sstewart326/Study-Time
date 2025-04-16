@@ -22,6 +22,7 @@
 * [[543 Diameter of a Binary Tree]]
 * [[104 Max Depth Binary Tree]]
 * [[102 Binary Tree Level Order Traversal]]
+* [[98 Validate Binary Search Tree]]
 #### Depth First Traversal
 
 *Uses stacks*
